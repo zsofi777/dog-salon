@@ -1758,7 +1758,7 @@ img {
     right: 10px;
     -webkit-transition-duration: 500ms;
     transition-duration: 500ms;
-    background-color: rgba(112, 199, 69, 0.8);
+    background-color: rgba(8,103,103, 0.7);
     position: absolute;
     z-index: 10;
     text-align: center;
