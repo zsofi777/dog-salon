@@ -6,10 +6,10 @@
 /* [Master Stylesheet] */
 
 /*
-Template Name: Alazea - Gardening &amp; Landscaping HTML Template
-Template Author: Colorlib
-Template Author URI: http://colorlib.com
-Text Domain: Alazea, Gardening & Landscaping
+Template Name: DogKartel - dog salon
+Template Author: zsofi777
+Template Author URI: https://zsofi777.github.io
+Text Domain: DogKartel, dog salon
 Version: - v1.0
 */
 
@@ -345,9 +345,9 @@ img {
     }
 }
 
-/* :: 3.8.0 alazea Button */
+/* :: 3.8.0 kartel Button */
 
-.alazea-btn {
+.kartel-btn {
     @include trans-duration(400ms);
     position: relative;
     z-index: 1;
@@ -481,7 +481,7 @@ img {
         }
     }
 
-    .alazea-main-menu {
+    .kartel-main-menu {
         position: relative;
         z-index: 1;
         @include trans-duration(200ms);
@@ -631,7 +631,7 @@ img {
         }
     }
     .is-sticky {
-        .alazea-main-menu {
+        .kartel-main-menu {
             background-color: rgb(121,103,8);
             position: fixed;
             width: 100%;
@@ -1783,7 +1783,7 @@ img {
     }
 }
 
-.alazea-progress-bar {
+.kartel-progress-bar {
     position: relative;
     z-index: 1;
     margin-top: 40px;
@@ -1873,7 +1873,7 @@ img {
     }
 }
 
-.alazea-video-area {
+.kartel-video-area {
     position: relative;
     z-index: 1;
     border-radius: 6px;
@@ -1962,7 +1962,7 @@ img {
 
 /* :: 15.0 Portfolio Area CSS */
 
-.alazea-portfolio-filter {
+.kartel-portfolio-filter {
     position: relative;
     z-index: 1;
     text-align: center;
@@ -1987,7 +1987,7 @@ img {
     }
 }
 
-.alazea-portfolio {
+.kartel-portfolio {
     &.row {
         margin-right: -10px;
         margin-left: -10px;
@@ -2180,7 +2180,7 @@ img {
     position: relative;
     z-index: 1;
     &::after {
-        background-color: rgba(4, 43, 15, 0.8);
+        background-color: rgba(11, 63, 54, 0.8);
         position: absolute;
         z-index: -1;
         top: 0;
