@@ -241,7 +241,7 @@ img {
     position: relative;
     border-style: solid;
     border-width: 2px;
-    border-top-color: #008986;
+    border-top-color: #fed701;
     border-bottom-color: transparent;
     border-left-color: transparent;
     border-right-color: transparent;
@@ -2073,8 +2073,8 @@ img {
       .breadcrumb-area .top-breadcrumb-area {
         height: 220px; } }
   .breadcrumb-area .top-breadcrumb-area h2 {
-    margin-top: 132px;
-    font-size: 130px;
+    text-align: center;
+    font-size: 70px;
     font-weight: bold;
     color: #008986;
     background: transparent;
@@ -2084,8 +2084,8 @@ img {
     text-transform: uppercase; }
       @media only screen and (max-width: 767px) {
         .breadcrumb-area .top-breadcrumb-area h2 {
-          margin-top: 112px;
-          font-size: 80px; } }
+          font-size: 50px;
+        letter-spacing: -5px; } }
   .breadcrumb-area .breadcrumb {
     margin: 0;
     padding-top: 30px;
