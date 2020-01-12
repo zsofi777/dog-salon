@@ -1519,7 +1519,9 @@ img {
         .testimonials-slides .owl-dots .owl-dot.active::after {
           opacity: 1;
           visibility: visible; }
-
+.testimonial-content {
+  text-align: center;
+}
 .single-testimonial-slide {
   position: relative;
   z-index: 1; }
@@ -1535,7 +1537,7 @@ img {
       .single-testimonial-slide .testimonial-thumb {
         width: 250px;
         height: 250px;
-        margin-bottom: 50px; } }
+        margin-bottom: 50px; } }  
   .single-testimonial-slide .testimonial-content .testimonial-author-info h6 {
     font-size: 18px;
     margin-bottom: 0; }
