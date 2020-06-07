@@ -580,7 +580,9 @@ img {
         opacity: 1;
         visibility: visible; }
   .header-area .is-sticky .kartel-main-menu {
-    background-color: #fed701;
+    background: url(/img/core-img/navE.png);
+    background-position: center;
+    /*background-color: #fed701;*/
     position: fixed;
     width: 100%;
     top: 0;
